@@ -1,0 +1,14 @@
+QWidget{
+	background-color: gray;
+}
+
+QFrame#frameMini{
+	background-color:black;
+}
+
+QLabel{
+	border: 10 px solid black;
+	background-color: black;
+	border-radius: 10px;
+	qproperty-alignment: AlignCenter;	
+}
